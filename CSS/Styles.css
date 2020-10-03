@@ -1,0 +1,124 @@
+/**/
+/*styles used for home page*/
+
+/*setup of header container*/
+.background {
+  position: relative;
+
+  text-align: center;
+  width:100%;
+  height:100%;
+}
+
+.backimg {
+  width:100%;
+  height:100%;
+}
+
+/*website logo style*/
+.logo {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  width: 20%;
+  height: 85%;
+  align:left;
+}
+
+/*header menu items style*/
+.menuitems {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size:200%;
+  word-spacing: 40px;
+}
+
+/*sign in image style*/
+.signinlogo {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+width:100;
+  height:70%;
+}
+
+/*sign text image style*/
+.signintext {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+
+/*sa map style*/
+
+.map {
+
+  width:100%;
+  height:100%;
+
+}
+
+/*sa map info style*/
+
+.sainfo {
+  padding: 10px 0px 10px 0px;
+  border-style: hidden hidden solid hidden;
+  color:grey;
+  font-size:200%;
+
+}
+
+.section {
+  padding: 10px 0px 10px 0px;
+  border-style: hidden hidden solid hidden;
+  font-size:200%;
+}
+
+.sechead {
+  align:top;
+  color:blue;
+  font-size:100%;
+}
+
+.secimg {
+  float: left;
+  width:10%;
+  height:10%;
+  padding: 10px 10px 10px 10px;
+}
+
+.footer {
+  text-align: center;
+  color:grey;
+  font-size:200%;
+}
+
+
+/*-------------------------------------------------------------------*/
+
+/*styles used for login page*/
+
+/*form style*/
+
+.form {
+  text-align: center;
+  font-size:200%;
+  border-style: hidden hidden solid hidden;
+}
+
+.seclogin {
+  align:top;
+  color:blue;
+  font-size:200%;
+}
+
+/*-------------------------------------------------------------------*/
+
+/*styles used for city pages*/
+
+.disc {
+  font-size:200%;
+}
